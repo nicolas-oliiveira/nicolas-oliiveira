@@ -25,7 +25,7 @@
   <img align="center" alt="Php" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
   
-  #### parceiros! 
+  ## parceiros! 
   
 - <a href="https://github.com/pedrojesus44">Pedro</a>👦
 - <a href="https://github.com/LucasSouzaBorges">Lucas</a>👦
