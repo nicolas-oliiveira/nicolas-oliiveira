@@ -12,9 +12,9 @@
 </div>
   
 <div>
-  <a href="https://www.instagram.com/lopes_niicolas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/11948041282" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  -<a href="https://www.instagram.com/lopes_niicolas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  -<a href="https://wa.me/11948041282" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  -<a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--
 **nicolas-oliiveira/nicolas-oliiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
