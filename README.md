@@ -10,12 +10,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-oliiveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-oliiveira&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
+  <br>
 ## Redes sociais:
   <a href="https://www.instagram.com/lopes_niicolas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/11948041282" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <br>
   ## Linguagens de programação:
 
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
   <img align="center" alt="ardu" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" />
   <img align="center" alt="Php" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
-  
+  <br>
   ## parceiros:
   
 - <a href="https://github.com/pedrojesus44">Pedro</a>👦
