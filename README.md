@@ -1,5 +1,4 @@
 # Bem vindo!!👋
-##
 - 🎶 16 anos
 - 😄 Atualmente cursando Desenvolvimento de Sistemas
 - 📧 Para mais informações, entre em contato!
