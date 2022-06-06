@@ -3,7 +3,7 @@
 - 😄 Atualmente cursando Desenvolvimento de Sistemas
 - 📧 Para mais informações, entre em contato!
 
-<img src = "https://c.tenor.com/cAxdEo0EsPkAAAAC/pixel-art.gif" height="490" widht="620">
+<img src = "https://c.tenor.com/THLzZZX9FPIAAAAM/video-waiting.gif">
 
 <div>
   <a href="https://github.com/nicolas-oliiveira">
