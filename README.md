@@ -3,7 +3,7 @@
 - 😄 Atualmente cursando Desenvolvimento de Sistemas
 - 📧 Para mais informações, entre em contato!
 
-<img src = "https://www.gifcen.com/wallpaper-gif-4-2/" height="490" widht="620">
+<img src = "https://thumbs.gfycat.com/AchingSilkyFoal-size_restricted.gif" height="490" widht="620">
 
 <div>
   <a href="https://github.com/nicolas-oliiveira">
