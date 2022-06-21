@@ -12,12 +12,12 @@
 </div>
   
 ## Redes sociais:
-  <div>
+  
   <a href="https://www.instagram.com/lopes_niicolas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
-  <div>
+  
   <a href="https://wa.me/948041282" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a></div>
-  <div>
-  <a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
+  
+  <a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ## Linguagens de programação:
 
@@ -31,7 +31,6 @@
   ## parceiros:
   
 - <a href="https://github.com/pedrojesus44">Pedro</a>👨
-- <a href="https://github.com/LucasSouzaBorges">Lucas</a>👨
 - <a href="https://github.com/miguelvent">Vent</a>👨
   
   
