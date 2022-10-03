@@ -13,6 +13,7 @@
   
   <a href = "mailto:nicolas.hassan20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+## Status:
 <div>
   <a href="https://github.com/nicolas-oliiveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-oliiveira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
