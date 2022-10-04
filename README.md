@@ -1,6 +1,5 @@
 # Bem vindo!!👋
 - 🎶 17 anos
-- 😄 Atualmente cursando Desenvolvimento de Sistemas
 - 📧 Para mais informações, entre em contato!
 
 <img src = "https://media.tenor.com/TO7zinI4r8EAAAAC/bart-simpson.gif" height="490" widht="620">
