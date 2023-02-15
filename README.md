@@ -2,7 +2,7 @@
 - 🎶 17 anos
 - 📧 Para mais informações, entre em contato!
 
-<img src = "https://media.tenor.com/TO7zinI4r8EAAAAC/bart-simpson.gif" height="490" widht="620">
+<img src = "https://custom-doodle.com/wp-content/uploads/doodle/harry-potter-voldemort-avada-kedavra/harry-potter-voldemort-avada-kedavra-doodle.gif" height="490" widht="620">
 
 ## Redes sociais:
   
