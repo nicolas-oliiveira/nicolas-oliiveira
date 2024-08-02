@@ -1,5 +1,4 @@
 # Bem vindo!!👋
-- 🎶 17 anos
 - 📧 Para mais informações, entre em contato!
 
 <img src = "https://custom-doodle.com/wp-content/uploads/doodle/harry-potter-voldemort-avada-kedavra/harry-potter-voldemort-avada-kedavra-doodle.gif" height="400" widht="600">
